@@ -75,4 +75,4 @@ curatedPhotos();
 const more = document.querySelector(".more");
 more.addEventListener("click", loadMore);
 
-async function loadMore() {}
+// async function loadMore() {}
